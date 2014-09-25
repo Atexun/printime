@@ -27,7 +27,7 @@ $adresse = array
 		"type-enveloppe" => "118-sans-fenetre",
 		"type-courrier" => "Eco+",
 		"suivis-postal" => false,
-
+        "pays-recepteur" => "FR",
 	);
 
 $infos_impression_document = array
