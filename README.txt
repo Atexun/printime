@@ -2,6 +2,10 @@ README - PRINTIME - ATEXUN SARL (28/08/2014)
 
 https://printime.fr
 
+DOCUMENTATION 
+- - - - - - -
+http://docs.printime.apiary.io
+
 INFORMATIONS 
 - - - - - - 
 
