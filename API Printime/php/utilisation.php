@@ -8,8 +8,8 @@ include 'printime.class.php';
 ** $k_t : Clé d'API
 */
 
-$u_t = "";
-$k_t = "";
+$u_t = "demo";
+$k_t = "demo";
 
 /*
 ** Coordonées du recepteur
