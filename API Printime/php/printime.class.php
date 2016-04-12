@@ -100,7 +100,7 @@ class Printime {
 		$url =  $this->base_url . $this->u . '/' . $this->k . '/' . $function_url . '/' . $this->id_cmd;
 		$donnees = array
 		(
-			'file' => '@' . realpath($filename),
+			'file' => new CURLFile($filename,'application/pdf','_'),
 			'infos' => $this->encodeJson($infos)
 		);
 		$result = $this->curlPost($url, $donnees);
